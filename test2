@@ -2566,10 +2566,3 @@ if game.PlaceId == 2788229376 then
 else
     game.Players.LocalPlayer:Kick("Only da hood.")
 end
-
-local theGroup = 14728979 -- your group id here
-if game.Players.LocalPlayer:GetRankInGroup(theGroup) == 2 then
-    print('Whitelisted')
-else
-    game.Players.LocalPlayer:Kick('Nigger Tryed To Bypass Buy It Faggot!')
-end
